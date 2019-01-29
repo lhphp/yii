@@ -13,9 +13,12 @@ use yii\console\Controller;
 
 class TestController extends Controller
 {
-    public function actionIndex(){
+    public function actionIndex()
+    
+    {
             echo 12321;
-        };
+
+    }
     
 
 }
