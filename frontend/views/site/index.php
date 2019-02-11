@@ -19,6 +19,7 @@
     <li><img src="img/8.jpg" width="200" height="200"></li>
     <li><img src="img/9.jpg" width="200" height="200"></li>
     <li><img src="img/10.jpg" width="200" height="200"></li>
+    图片
 </ul>
 
 </body>
